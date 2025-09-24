@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I’m Adnan Faraj Saad Mayof
+# 👋 Hi, I’m Adnan Mayof
 
 ### 🎓 Educational Technology Researcher | 🖥️ Instructional Designer | 📊 Meta-Analysis Specialist
 
