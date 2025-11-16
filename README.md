@@ -29,8 +29,8 @@
 * 📊 **[Self-Directed Learning in STEM: Meta-Analysis](https://github.com/adnan-mayof/Self-Directed-Learning)**
   *R scripts and outputs for a large-scale meta-analysis (47 effect sizes, 6,217 participants).*
 
-* 📈 **[Student Retention Analytics](https://github.com/adnan-mayof/Student_Retention)**
-  *Data-driven approaches to improve student success in higher education.*
+* 📈 **[Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)**
+  *This project builds a logistic regression model to predict student dropout using demographic, academic, and socio-economic data. It identifies key factors that influence dropout risk, enabling earlier and more effective interventions.*
 
 ---
 
