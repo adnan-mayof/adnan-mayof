@@ -17,6 +17,15 @@
 ![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-E67E22)
 ---
 
+### 🔍 How I Approach Problems
+
+I look beyond traditional **knowledge gaps** and **performance gaps** to examine whether the **instructional experience itself** is contributing to the problem. I analyze whether instructions are clear and well designed, whether learning activities and scenarios support the intended learning, and whether assessments are appropriately aligned with the learning objectives.
+
+This approach treats **instructional design as part of problem diagnosis**, not simply as a solution applied after a problem has been identified.
+---
+
+
+
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
 🖥️ I am also an **Instructional Designer**, creating **microlearning courses** and designing engaging, evidence-based learning experiences.
 
