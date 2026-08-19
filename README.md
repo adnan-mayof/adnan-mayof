@@ -6,15 +6,15 @@
 
 ![R](https://img.shields.io/badge/R-Yes-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Yes-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Yes-4479A1)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-6F42C1)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-F97316)
+![SQL](https://img.shields.io/badge/SQL-Yes-CC2927)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-5B5EA6)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-228B22)
 ![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
-![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Yes-EAB308)
-![Microlearning](https://img.shields.io/badge/Microlearning-Yes-F59E0B)
-![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-276DC3)
-![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-6F42C1)
-![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-F97316)
+![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Yes-F28C28)
+![Microlearning](https://img.shields.io/badge/Microlearning-Yes-FFD43B)
+![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-4C78A8)
+![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-7B61A8)
+![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-E67E22)
 ---
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
