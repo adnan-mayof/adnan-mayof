@@ -4,15 +4,17 @@
 
 ### 🎓 Educational Technology Researcher | 🖥️ Instructional Designer | 📊 Meta-Analysis Specialist
 
-![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r)
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-green?logo=python)
+![R](https://img.shields.io/badge/R-Yes-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Yes-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Yes-4479A1)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-6F42C1)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-F97316)
 ![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
-![Instructional Design](https://img.shields.io/badge/Focus-Instructional%20Design-orange)
-![Microlearning](https://img.shields.io/badge/Focus-Microlearning-yellow)
-![Expertise](https://img.shields.io/badge/Expertise-Meta--Analysis-276DC3)
-![Expertise](https://img.shields.io/badge/Expertise-Systematic%20Review-6F42C1)
-![Expertise](https://img.shields.io/badge/Expertise-Scoping%20Review-F97316)
-![Expertise](https://img.shields.io/badge/Expertise-Instructional%20Design-EAB308)
+![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Yes-EAB308)
+![Microlearning](https://img.shields.io/badge/Microlearning-Yes-F59E0B)
+![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-276DC3)
+![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-6F42C1)
+![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-F97316)
 ---
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
