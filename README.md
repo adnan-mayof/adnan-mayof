@@ -6,11 +6,13 @@
 
 ![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-green?logo=python)
+![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
 ![Instructional Design](https://img.shields.io/badge/Focus-Instructional%20Design-orange)
 ![Microlearning](https://img.shields.io/badge/Focus-Microlearning-yellow)
-![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
-![Design Strategy](https://img.shields.io/badge/Design%20Strategy-Instructional%20Design-F97316)
-![Design Strategy](https://img.shields.io/badge/Design%20Strategy-Learning%20%26%20Communication-6F42C1)
+![Expertise](https://img.shields.io/badge/Expertise-Meta--Analysis-276DC3)
+![Expertise](https://img.shields.io/badge/Expertise-Systematic%20Review-6F42C1)
+![Expertise](https://img.shields.io/badge/Expertise-Scoping%20Review-F97316)
+![Expertise](https://img.shields.io/badge/Expertise-Instructional%20Design-EAB308)
 ---
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
