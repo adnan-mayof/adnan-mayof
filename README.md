@@ -9,6 +9,8 @@
 ![Instructional Design](https://img.shields.io/badge/Focus-Instructional%20Design-orange)
 ![Microlearning](https://img.shields.io/badge/Focus-Microlearning-yellow)
 ![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
+![Design Lens](https://img.shields.io/badge/Lens-Instructional%20Design-F97316)
+![Design Lens](https://img.shields.io/badge/Lens-Learning%20%26%20Communication-6F42C1)
 ---
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
