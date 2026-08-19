@@ -6,15 +6,18 @@
 
 ![R](https://img.shields.io/badge/R-Yes-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Yes-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Yes-CC2927)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-5B5EA6)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-228B22)
-![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
+![SQL](https://img.shields.io/badge/SQL-Yes-00758F)
+
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-6A5ACD)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-6A5ACD)
+![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-6A5ACD)
+![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-6A5ACD)
+![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-6A5ACD)
+
 ![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Yes-F28C28)
-![Microlearning](https://img.shields.io/badge/Microlearning-Yes-FFD43B)
-![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-4C78A8)
-![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-7B61A8)
-![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-E67E22)
+![Microlearning](https://img.shields.io/badge/Microlearning-Yes-F28C28)
+
+![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
 ---
 
 🖥️ I am an **Instructional Designer**, creating **microlearning courses** and designing engaging, evidence-based learning experiences. I have also conducted **meta-analyses on feedback and self-directed learning**.
