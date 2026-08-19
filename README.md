@@ -17,8 +17,7 @@
 ![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-E67E22)
 ---
 
-🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
-🖥️ I am also an **Instructional Designer**, creating **microlearning courses** and designing engaging, evidence-based learning experiences.
+🖥️ I am an **Instructional Designer**, creating **microlearning courses** and designing engaging, evidence-based learning experiences. I have also conducted **meta-analyses on feedback and self-directed learning**.
 
 📍 Previously, I worked as a **Postdoctoral Research Associate** at **Washington State University** in the **Inclusive Undergraduate Education, Transformational Change Initiative**.
 
