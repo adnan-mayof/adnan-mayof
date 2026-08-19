@@ -17,13 +17,16 @@
 ![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-E67E22)
 ---
 
-### 🔍 How I Approach Problems
+### 🔍 Solving Problems from an Instructional Design Perspective
 
-I look beyond traditional **knowledge gaps** and **performance gaps** to examine whether the **instructional experience itself** is contributing to the problem. I analyze whether instructions are clear and well designed, whether learning activities and scenarios support the intended learning, and whether assessments are appropriately aligned with the learning objectives.
+As an **Instructional Designer**, I look beyond knowledge and performance gaps to examine whether **instructional design itself** may be contributing to a problem.
 
-This approach treats **instructional design as part of problem diagnosis**, not simply as a solution applied after a problem has been identified.
----
-
+I ask:
+- **Are the instructions clear and well designed?**
+- **Are the activities and scenarios appropriate for learning?**
+- **Are the assessments aligned with the learning objectives?**
+- **Is the content communicated in a way that supports learning?**
+----
 
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
