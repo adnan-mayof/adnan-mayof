@@ -8,8 +8,8 @@
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-green?logo=python)
 ![Instructional Design](https://img.shields.io/badge/Focus-Instructional%20Design-orange)
 ![Microlearning](https://img.shields.io/badge/Focus-Microlearning-yellow)
-![Open Science](https://img.shields.io/badge)
-
+![Open Science](https://img.shields.io/badge/)
+![Open Science]\([https://img.shields.io/badge/](https://img.shields.io/badge/))
 ---
 
 🎓 Currently, I am a **researcher in Educational Technology and Instructional Design**.
