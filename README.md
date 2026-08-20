@@ -20,8 +20,6 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-Yes-F37626?logo=jupyter&logoColor=white)
 ![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
 ![OSF](https://img.shields.io/badge/OSF-Yes-2EA44F)
-
-![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
 ---
 
 🖥️ I am an **Instructional Designer**, creating **microlearning courses** and designing engaging, evidence-based learning experiences. I have also conducted **meta-analyses on feedback and self-directed learning**.
