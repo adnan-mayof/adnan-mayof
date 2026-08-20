@@ -35,10 +35,10 @@
 As an **Instructional Designer**, I look beyond knowledge and performance gaps to examine whether **instructional design itself** may be contributing to a problem.
 
 I ask:
-- **Are the instructions clear and well designed?**
-- **Are the activities and scenarios appropriate for learning?**
-- **Are the assessments aligned with the learning objectives?**
-- **Is the content communicated in a way that supports learning?**
+- Are the instructions clear and well designed? 
+- Are the activities and scenarios appropriate for learning? 
+- Are the assessments aligned with the learning objectives?
+- Is the content communicated in a way that supports learning?
 ----
 
 
