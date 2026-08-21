@@ -43,17 +43,6 @@ I ask:
 * **Are the activities and scenarios appropriate for learning?**
 * **Are the assessments aligned with the learning objectives?**
 * **Is the content communicated in a way that supports learning?**
-
----
-
-## 📌 Featured Projects
-
-### 🎓 [Evidence Synthesis – Microlearning Module](https://adnan-mayof.github.io/Evidence-Synthesis/)
-A 1-minute interactive course featuring audio, clickable interactions, and fill-in-the-blank exercises.
-
-### 📈 [Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)
-A machine-learning project using logistic regression to examine factors associated with student dropout and support earlier intervention.
-
 ---
 
 ## 📖 Research & Expertise
