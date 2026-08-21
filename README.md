@@ -84,8 +84,8 @@ I ask:
 
 ## 🌍 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.macom/in/adnanmayof/)
-* ✉️ Contact: *mayof.adnan@gmail.com*
+* 💼 [LinkedIn](https://www.linkedin.com/in/adnanmayof/)
+* ✉️ **Email:** mayof.adnan@gmail.com
 
 ---
 
