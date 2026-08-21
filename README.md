@@ -4,6 +4,8 @@
 
 ### 🎓 Educational Technology Researcher | 🖥️ Instructional Designer | 📊 Meta-Analysis Specialist
 
+⚡ *“Bridging research, technology, and design to create evidence-based learning for the future.”*
+
 ![R](https://img.shields.io/badge/R-Yes-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Yes-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Yes-00758F)
@@ -86,10 +88,6 @@ I ask:
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/adnanmayof/)
 * ✉️ **Email:** mayof.adnan@gmail.com
-
----
-
-⚡ *“Bridging research, technology, and design to create evidence-based learning for the future.”*
 
 ---
  
