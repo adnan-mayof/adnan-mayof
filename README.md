@@ -49,15 +49,9 @@ I ask:
 ## 📌 Featured Projects
 
 ### 🎓 [Evidence Synthesis – Microlearning Module](https://adnan-mayof.github.io/Evidence-Synthesis/)
-
 A 1-minute interactive course featuring audio, clickable interactions, and fill-in-the-blank exercises.
 
-### 📊 [Self-Directed Learning in STEM: Meta-Analysis](https://github.com/adnan-mayof/Self-Directed-Learning)
-
-R scripts and outputs for a large-scale meta-analysis examining **47 effect sizes across 6,217 participants**.
-
 ### 📈 [Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)
-
 A machine-learning project using logistic regression to examine factors associated with student dropout and support earlier intervention.
 
 ---
