@@ -4,6 +4,12 @@
 
 > *Bridging research, technology, and design to create evidence-based learning for the future.*
 ---
+## 🌍 Connect with Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/adnanmayof/)
+* ✉️ **Email:** [mayof.adnan@gmail.com](mailto:mayof.adnan@gmail.com)
+
+---
 
 ## 🔍 Solving Problems from an Instructional Design Perspective
 
@@ -54,33 +60,9 @@ I ask:
 * **Open Science:** OSF, reproducible workflows
 
 
-----
-![R](https://img.shields.io/badge/R-Yes-276DC3?logo=r\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Yes-3776AB?logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Yes-00758F)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Yes-6A5ACD)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-Yes-6A5ACD)
-![Meta-Analysis](https://img.shields.io/badge/Meta--Analysis-Yes-2C3E50)
-![Systematic Review](https://img.shields.io/badge/Systematic%20Review-Yes-2C3E50)
-![Scoping Review](https://img.shields.io/badge/Scoping%20Review-Yes-2C3E50)
-![PRISMA](https://img.shields.io/badge/PRISMA-Yes-2C3E50)
-![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Yes-F28C28)
-![Microlearning](https://img.shields.io/badge/Microlearning-Yes-F28C28)
-![Docker](https://img.shields.io/badge/Docker-Yes-2496ED?logo=docker\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Yes-181717?logo=github\&logoColor=white)
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-Yes-F37626?logo=jupyter\&logoColor=white)
-![Open Science](https://img.shields.io/badge/Open%20Science-Yes-2EA44F)
-![OSF](https://img.shields.io/badge/OSF-Yes-2EA44F)
-
 
 ---
-
-## 🌍 Connect with Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/adnanmayof/)
-* ✉️ **Email:** [mayof.adnan@gmail.com](mailto:mayof.adnan@gmail.com)
-
----
+ 
 
 I am an **Educational Technology Researcher and Instructional Designer** focused on understanding what works in learning and how learning experiences can be designed more effectively.
 
