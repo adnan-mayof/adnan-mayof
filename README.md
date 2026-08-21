@@ -89,14 +89,6 @@ I ask:
 
 ---
 
-## 📊 GitHub Stats
-
-![Adnan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-mayof\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-mayof\&layout=compact\&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnan-mayof\&theme=default)
-
----
-
 ⚡ *“Bridging research, technology, and design to create evidence-based learning for the future.”*
 
 ---
