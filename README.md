@@ -6,4 +6,4 @@
 - 🌱 **Learning, creating, and sharing along the way.**
 - 🤝 **Join me on my learning journey, and let’s learn together!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/adnanmayof/)
-- ✉️ **Email:** mayof.adnan@gmail.com
+- ✉️ **Email:** [mayof.adnan@gmail.com](mailto:mayof.adnan@gmail.com)
