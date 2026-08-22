@@ -1,6 +1,6 @@
 # 👋 Welcome to my research & design corner!
 
-- I’m **Adnan Mayof**, an **Educational Technology Researcher, Evidence Synthesis Researcher, and Instructional Designer**.
+- I’m **Adnan Mayof**, a **Mixed Methods Researcher, Evidence Synthesis Researcher, and Instructional Designer in Educational Technology**.
 - 🔍 I’m passionate about **understanding how people learn, discovering what works, and designing better learning experiences**.
 - 📚 I enjoy **evidence synthesis, instructional design, data storytelling, and creating microlearning experiences**.
 - 🌱 **Learning, creating, and sharing along the way.**
